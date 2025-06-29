@@ -79,7 +79,7 @@ What was the month-over-month drop in sales and profit, and what factors contrib
 Dashboard interaction:
 
 
-<a href=" https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/dashboard.png"> dashboard</a>
+<a href="https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/dashboard.png"> dashboard</a>
 
 
 
