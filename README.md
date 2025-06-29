@@ -5,9 +5,6 @@ PROJECT OBJECTIVES:
 The objectives of this Power BI project is to analyze and visualize key performance metrics of Amazon’s e-commerce operations, with a focus on product performance, customer behavior, and overall sales efficiency. The goal is to derive actionable insights to support data-driven decision making across business units.
 
 
-
-
-
 The project aims to:
 
 Evaluate product line performance by analyzing quantity sold, profit contribution, and category-level sales.
@@ -19,6 +16,12 @@ Monitor regional performance across major cities (Yangon, Mandalay, Naypyitaw) t
 Track sales and profit trends over time, identifying key growth areas and potential risks, such as monthly declines or shifting customer engagement.
 
 Enable strategic planning through interactive dashboards that support KPI monitoring, segmentation, and performance comparison.Amazon E-commerce Sale Analysis - Key Performance Indicators (KPIs) Product Line Analysis KPIs
+
+
+View-powerbi:
+<a href=" https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/amazon%20sales%20analysis%20and%20insights.pbix"> view -powerbi</a>
+
+
 
 QUESTIONS FOR AMAZON E-COMMERCE SALES ANALYSIS (KPI):
 
@@ -69,6 +72,11 @@ What percentage of total sales comes from members vs. normal customers?
 Which payment method contributed the most to total sales?
 
 What was the month-over-month drop in sales and profit, and what factors contributed?
+
+
+Dashboard interaction:
+<a href=" https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/dashboard.png"> dashboard</a>
+
 
 PROCESS:
 
