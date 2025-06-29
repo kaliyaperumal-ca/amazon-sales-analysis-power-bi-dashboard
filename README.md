@@ -21,7 +21,7 @@ Enable strategic planning through interactive dashboards that support KPI monito
 View-powerbi:
 
 
-<a href=" https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/amazon%20sales%20analysis%20and%20insights.pbix">view-powerbi</a>
+<a href=" https://github.com/kaliyaperumal-ca/amazon-sales-analysis-power-bi-dashboard/blob/main/amazon%20sales%20analysis%20and%20insights.pbix">powerbi</a>
 
 
 
