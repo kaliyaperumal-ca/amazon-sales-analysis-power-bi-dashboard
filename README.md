@@ -1,8 +1,8 @@
 # amazon-sales-analysis-power-bi-dashboard
 
-PROJECT OBJECTIVE:
+PROJECT OBJECTIVEs:
 
-The objective of this Power BI project is to analyze and visualize key performance metrics of Amazon’s e-commerce operations, with a focus on product performance, customer behavior, and overall sales efficiency. The goal is to derive actionable insights to support data-driven decision making across business units.
+The objectives of this Power BI project is to analyze and visualize key performance metrics of Amazon’s e-commerce operations, with a focus on product performance, customer behavior, and overall sales efficiency. The goal is to derive actionable insights to support data-driven decision making across business units.
 
 Specifically, the project aims to:
 
